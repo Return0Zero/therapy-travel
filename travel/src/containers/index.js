@@ -1,2 +1,2 @@
 
-export { default as Terrain } from './planet-earth/planet-earth';
+export { default as PlanetContainer } from './planet-container/planet-container.jsx';
